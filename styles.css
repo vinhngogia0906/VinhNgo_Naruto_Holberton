@@ -43,14 +43,14 @@ body {
   margin: 0;
 }
 
-.navbar .nav-link {
+.navbar a {
   color: white !important;
   transition: color 0.3s;
   padding: 14px 20px;
   display: block;
 }
 
-.navbar .nav-link:hover {
+.navbar a:hover {
   color: orange !important;
 }
 
